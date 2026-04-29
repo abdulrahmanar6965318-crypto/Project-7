@@ -7,3 +7,6 @@ function handleResponse(answer) {
     result.innerText ="😭"
   }
 }
+<script>
+  alert("JS is working");
+</script>
